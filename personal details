@@ -1,0 +1,111 @@
+{
+    "basics": {
+        "name": “Aditya Solanki”,
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1010@iiitkota.ac.in",
+        "phone": "+6398284735,
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+        "location": {
+            "address": “Greater Noida”,
+            "postalCode": “201306”,
+            "city": “Gastam Budhh Nagar ”,
+            "countryCode": " India",
+            "region": “Uttar Pradesh”
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": “Aditya211078”,
+                "url": "https://www.github.com/Aditya211078”
+            },
+            {
+                "network": "linkedin",
+                "username": “Aditya Solanki”,
+                "url": "https://www.linkedin.com/in/aditya-solanki-603a77221/"
+            },
+            {
+                "network": "Instagram",
+                "username": "",
+                "url": ""
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": “Infosec Ventures”,
+            "position": "Web Developer",
+            "website": "https://www.infosecventures.com/",
+            "startDate": “16 May 2022”,
+            "endDate": “16 August 2022”,
+            "summary": "Worked as a web developer"
+        }
+       
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.2",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+   ],
+    "publications": [
+   ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "React",
+                "Node",
+                "Express",
+                "Next",
+                “Vue”,
+                “Nosql”,
+                “Mogodb”,
+                "Git",
+                "C/C++",
+                "Java",
+                
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Guitar"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Badminton"
+            ]
+        }
+    ]
+}
